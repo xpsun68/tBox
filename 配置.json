@@ -1,21 +1,6 @@
 {
 	"sites": [
 	{
-		"key": "yydsys",
-		"name": "多多影音",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/js/yydsys.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},
-	{
 		"key": "wogg",
 		"name": "玩偶哥哥",
 		"type": 5,
@@ -29,7 +14,23 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
+	},
+	{
+		"key": "yydsys",
+		"name": "多多影音",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/js/yydsys.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},	
+	{
 		"key": "mogg",
 		"name": "木偶哥哥(UC)",
 		"type": 5,
